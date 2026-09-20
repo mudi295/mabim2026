@@ -1180,7 +1180,7 @@ function App() {
           <div className="about-image reveal">
 
             <img
-              src="/images/author.jpg"
+              src="/images/mabim-4.jpg"
               alt="Wisnu Permana"
             />
 
